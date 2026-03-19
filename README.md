@@ -1,8 +1,14 @@
+<p align="center">
+    <img src="./assets/logo-nobg-500.png" alt="Treeolive Tech logo" width="180" />
+</p>
+
 # treeolivetech - GitHub
 
 This repository is a special `.github` directory containing **Treeolive Technologies**'s [GitHub profile](profile/README.md) configuration and default community health files.
 
 👉 **[Check out Treeolive's GitHub Profile here!](https://github.com/treeolivetech)**
+
+License note: repository content is available under [MIT](LICENSE), while logos and brand assets in [assets](assets) are proprietary under [assets/LICENSE](assets/LICENSE); trademarks are reserved in [TRADEMARKS.md](TRADEMARKS.md).
 
 <!--
 ### What are community health files?
